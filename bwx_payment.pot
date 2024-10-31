@@ -1,0 +1,551 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Forrest Ling
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: bwx payease payment gateway 1.3\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/bwx_payment\n"
+"POT-Creation-Date: 2010-01-08 14:20+0800\n"
+"PO-Revision-Date: 2010-01-08 15:12+0800\n"
+"Last-Translator: 凌巍才 <lingweicai@sohu.com>\n"
+"Language-Team: lingweicai <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: bwx_functions.php:98
+msgid "Order Details"
+msgstr "订单详细"
+
+#: bwx_functions.php:101
+#: bwx_functions.php:112
+msgid "back"
+msgstr "返回"
+
+#: bwx_functions.php:120
+msgid "Order ID"
+msgstr "订单号"
+
+#: bwx_functions.php:121
+msgid "Blog ID"
+msgstr "网站号"
+
+#: bwx_functions.php:122
+msgid "Post ID"
+msgstr "产品号"
+
+#: bwx_functions.php:123
+msgid "Product Price"
+msgstr "单价"
+
+#: bwx_functions.php:124
+msgid "Product Qty"
+msgstr "数量"
+
+#: bwx_functions.php:125
+msgid "Product Options"
+msgstr "产品选项"
+
+#: bwx_functions.php:126
+#: bwx_payment.php:414
+msgid "Delivery Method"
+msgstr "交付方式"
+
+#: bwx_functions.php:127
+#: bwx_payment.php:433
+msgid "Delivery Cost"
+msgstr "运费"
+
+#: bwx_functions.php:128
+#: bwx_payment.php:438
+msgid "Total"
+msgstr "总价"
+
+#: bwx_functions.php:129
+msgid "Order Date"
+msgstr "订单日期"
+
+#: bwx_functions.php:130
+msgid "Order Status"
+msgstr "订单状态"
+
+#: bwx_functions.php:131
+msgid "Receiver Name"
+msgstr "收货人姓名"
+
+#: bwx_functions.php:132
+#: bwx_payment.php:460
+msgid "Shipment Address"
+msgstr "收货人地址"
+
+#: bwx_functions.php:133
+#: bwx_payment.php:461
+msgid "Shipment City"
+msgstr "收货人所在城市"
+
+#: bwx_functions.php:134
+#: bwx_payment.php:462
+msgid "Shipment Country"
+msgstr "收货人所在国家"
+
+#: bwx_functions.php:135
+msgid "Shipment Post Code"
+msgstr "收货人邮编"
+
+#: bwx_functions.php:136
+msgid "Shipment Tel"
+msgstr "收货人联系电话"
+
+#: bwx_functions.php:137
+#: bwx_payment.php:451
+msgid "Buyer Name"
+msgstr "购买人姓名"
+
+#: bwx_functions.php:138
+msgid "Buyer Tel Number"
+msgstr "购买人电话"
+
+#: bwx_functions.php:139
+#: bwx_payment.php:453
+msgid "Buyer Email"
+msgstr "购买人电子邮件"
+
+#: bwx_functions.php:140
+msgid "Payment Status"
+msgstr "付款状态"
+
+#: bwx_functions.php:141
+msgid "Payment String"
+msgstr "付款代码"
+
+#: bwx_functions.php:142
+msgid "Payment Mode"
+msgstr "付款模式"
+
+#: bwx_functions.php:143
+msgid "Money Type"
+msgstr "货币类型"
+
+#: bwx_functions.php:144
+msgid "Buyer IP Address"
+msgstr "购买者IP地址"
+
+#: bwx_functions.php:145
+#: bwx_payment.php:426
+msgid "Payment Method"
+msgstr "付款模式"
+
+#: bwx_functions.php:176
+msgid "All User ID"
+msgstr "所有作者"
+
+#: bwx_functions.php:180
+msgid "All Post ID"
+msgstr "所有产品号"
+
+#: bwx_functions.php:184
+msgid "All Order Date"
+msgstr "所有订单日期"
+
+#: bwx_functions.php:188
+msgid "All Order Status"
+msgstr "所有订单状态"
+
+#: bwx_functions.php:280
+msgid "One Page Display"
+msgstr "全部显示"
+
+#: bwx_functions.php:312
+msgid "filter"
+msgstr "过滤"
+
+#: bwx_functions.php:366
+#: bwx_payment.php:403
+#: bwx_payment.php:436
+#: bwx_payment.php:442
+msgid "CNY"
+msgstr "元"
+
+#: bwx_functions.php:368
+#: bwx_payment.php:404
+msgid "USD"
+msgstr "USD"
+
+#: bwx_functions.php:383
+msgid "Order Numbers is :"
+msgstr "订单号为："
+
+#: bwx_functions.php:387
+#: bwx_functions.php:406
+msgid "delete"
+msgstr "删除"
+
+#: bwx_functions.php:387
+#: bwx_functions.php:413
+msgid "details"
+msgstr "详细"
+
+#: bwx_functions.php:422
+msgid "Product Total is : "
+msgstr "产品价格为："
+
+#: bwx_functions.php:423
+msgid "Delivery Cost is : "
+msgstr "交付费用为："
+
+#: bwx_functions.php:424
+msgid "Total is : "
+msgstr "合计为："
+
+#: bwx_functions.php:445
+msgid "Please Input Buyer Information. "
+msgstr "请输入购买人信息"
+
+#: bwx_functions.php:461
+#: bwx_payment.php:238
+msgid "Order"
+msgstr "订单"
+
+#: bwx_functions.php:497
+#: bwx_payment.php:268
+#: bwx_payment.php:271
+#: bwx_payment.php:274
+#: bwx_payment.php:338
+#: bwx_payment.php:344
+#: bwx_payment.php:381
+#: bwx_payment.php:384
+msgid "Price"
+msgstr "价格"
+
+#: bwx_functions.php:500
+msgid "Totoal Price Check Erorr! "
+msgstr "总价错误！"
+
+#: bwx_functions.php:530
+msgid "Already Bought!"
+msgstr "已经购买"
+
+#: bwx_functions.php:533
+#: bwx_payment.php:140
+msgid "Internet Payment"
+msgstr "网络付款"
+
+#: bwx_payment.php:39
+msgid "BWX Payment"
+msgstr "百网信电子商务系统"
+
+#: bwx_payment.php:39
+msgid "Payment Setting"
+msgstr "支付参数设定"
+
+#: bwx_payment.php:40
+#: bwx_payment.php:41
+msgid "Orders Page"
+msgstr "订单页面"
+
+#: bwx_payment.php:40
+#: bwx_payment.php:41
+msgid "Orders"
+msgstr "订单"
+
+#: bwx_payment.php:59
+msgid "BWX_Payment_page created "
+msgstr "电子商务页面"
+
+#: bwx_payment.php:67
+msgid "BWX_Userinfo_Page created "
+msgstr "用户信息页面"
+
+#: bwx_payment.php:74
+msgid "v_mid"
+msgstr "首信易支付商户序号"
+
+#: bwx_payment.php:74
+msgid "Payease Merchant ID"
+msgstr "首信易支付商户序号"
+
+#: bwx_payment.php:75
+msgid "v_rcvname"
+msgstr "首信易支付商户名"
+
+#: bwx_payment.php:75
+msgid "Payease Name"
+msgstr "首信易支付 名字"
+
+#: bwx_payment.php:76
+msgid "v_rcvaddr"
+msgstr "商户地址"
+
+#: bwx_payment.php:76
+msgid "Payease Merchant Address"
+msgstr "商户地址"
+
+#: bwx_payment.php:77
+msgid "v_rcvtel"
+msgstr "商户电话"
+
+#: bwx_payment.php:77
+msgid "Payease Merchant Telephone"
+msgstr "商户电话"
+
+#: bwx_payment.php:78
+msgid "v_rcvpost"
+msgstr "商户邮编"
+
+#: bwx_payment.php:78
+msgid "Payease Merchant Post Code"
+msgstr "商户邮编"
+
+#: bwx_payment.php:79
+msgid "v_moneytype"
+msgstr "货币类型"
+
+#: bwx_payment.php:79
+msgid "Currency Type, 0 for Chinese Yuan, 1 for US Dollar"
+msgstr "货币类型。人民币：0；美元：1"
+
+#: bwx_payment.php:80
+msgid "secret"
+msgstr "密钥"
+
+#: bwx_payment.php:80
+msgid "key Payease and you"
+msgstr "首信易支付和您设定的密码"
+
+#: bwx_payment.php:111
+msgid "BWX Configuration Setting"
+msgstr "支付系统配置"
+
+#: bwx_payment.php:112
+msgid "Configure Payment Setting"
+msgstr "支付系统配置"
+
+#: bwx_payment.php:121
+#: bwx_payment.php:133
+#: bwx_payment.php:157
+#: bwx_payment.php:469
+msgid "Submit"
+msgstr "提交"
+
+#: bwx_payment.php:123
+msgid "please set up payease parameters"
+msgstr "请设置首信易支付参数"
+
+#: bwx_payment.php:125
+msgid "Configure Delivery Options"
+msgstr "配置交付选项"
+
+#: bwx_payment.php:131
+msgid "delivery_option"
+msgstr "交付选项"
+
+#: bwx_payment.php:135
+msgid "Format: Address1:cost1;Address2:cost2;... seperate with address and cost with `:`, seperate addresses with `;` "
+msgstr "格式：地址1:费用1;地址2:费用2; ... 用英文字符':'将地址和交付费用分开，用英文字符';'将每个交付方式分开， "
+
+#: bwx_payment.php:136
+msgid "Please set up delivery option. "
+msgstr "请设置交付选项"
+
+#: bwx_payment.php:140
+msgid "Payment on Seller Site"
+msgstr "自取货物时，现场付款"
+
+#: bwx_payment.php:140
+msgid "Payment on the Delivery Site"
+msgstr "送货，货到付款"
+
+#: bwx_payment.php:140
+msgid "Bank Transfer"
+msgstr "银行汇款"
+
+#: bwx_payment.php:142
+msgid "Configure Payment Options"
+msgstr "支付系统配置"
+
+#: bwx_payment.php:148
+msgid "payment_option"
+msgstr "付款选项"
+
+#: bwx_payment.php:159
+msgid "Please set up payment option. "
+msgstr "请设置首信易支付参数"
+
+#: bwx_payment.php:169
+msgid "Payment Return Page"
+msgstr "支付返回页面"
+
+#: bwx_payment.php:184
+msgid "User Information Page"
+msgstr "客户信息页面"
+
+#: bwx_payment.php:225
+msgid "Thanks for Payment！"
+msgstr "感谢付款！"
+
+#: bwx_payment.php:241
+msgid "Paid"
+msgstr "已付款"
+
+#: bwx_payment.php:304
+msgid "Thank You for Your Order !"
+msgstr "感谢购买！"
+
+#: bwx_payment.php:315
+msgid "post secrete code error !"
+msgstr "密钥错误！"
+
+#: bwx_payment.php:336
+#: bwx_payment.php:385
+msgid "Image"
+msgstr "图片"
+
+#: bwx_payment.php:339
+msgid "Price Error !"
+msgstr "价格错误！"
+
+#: bwx_payment.php:344
+#: bwx_payment.php:366
+msgid "Product Name"
+msgstr "产品名称"
+
+#: bwx_payment.php:360
+msgid "Please input a number for qty."
+msgstr "请输入购买数量。"
+
+#: bwx_payment.php:361
+msgid "Order Information"
+msgstr "订单信息"
+
+#: bwx_payment.php:362
+msgid "Product Information："
+msgstr "产品信息："
+
+#: bwx_payment.php:366
+msgid "Unit Price"
+msgstr "单价"
+
+#: bwx_payment.php:366
+msgid "Qty"
+msgstr "数量"
+
+#: bwx_payment.php:366
+msgid "Subtotal"
+msgstr "小计"
+
+#: bwx_payment.php:377
+msgid "Order Options："
+msgstr "订单选项："
+
+#: bwx_payment.php:384
+msgid "Delivery"
+msgstr "交付"
+
+#: bwx_payment.php:409
+msgid "Shipment Cost"
+msgstr "运输费用"
+
+#: bwx_payment.php:432
+msgid "Delivery Cost and Total："
+msgstr "交付费用和总价："
+
+#: bwx_payment.php:450
+msgid "Please Input Buyer Information"
+msgstr "请输入购买人信息"
+
+#: bwx_payment.php:452
+msgid "Buyer Tel"
+msgstr "购买人电话"
+
+#: bwx_payment.php:457
+msgid "Please Input Shipment Information"
+msgstr "请输入收货人信息"
+
+#: bwx_payment.php:458
+msgid "Please Advise Delivery Address."
+msgstr "请输入交付地址"
+
+#: bwx_payment.php:459
+msgid "Shipment name"
+msgstr "收货人名称"
+
+#: bwx_payment.php:463
+msgid "Post Code"
+msgstr "邮编"
+
+#: bwx_payment.php:464
+msgid "Shipment Telephone"
+msgstr "收货人电话"
+
+#: bwx_payment.php:467
+msgid " Please input the buyer name ."
+msgstr "请输入购买人姓名。"
+
+#: bwx_payment.php:468
+msgid " Please input the buyer tel or buyer email ."
+msgstr "请输入购买人电话或电子邮件信息。"
+
+#: bwx_payment.php:469
+msgid "Confirm Order"
+msgstr "确认订单"
+
+#: bwx_payment.php:529
+msgid "Orders Page."
+msgstr "订单页面"
+
+#: bwx_payment.php:561
+msgid "prev"
+msgstr "前一个"
+
+#: bwx_payment.php:562
+msgid "next"
+msgstr "下一个"
+
+#: bwx_payment.php:571
+#, php-format
+msgid "Displaying %s&#8211;%s of %s"
+msgstr "显示 %s &#8211;%s 共 %s"
+
+#: bwx_payment.php:726
+msgid "Title:"
+msgstr "标题："
+
+#. Plugin Name of an extension
+msgid "bwx payease payment gateway"
+msgstr "百网信首信易支付系统"
+
+#. Plugin URI of an extension
+msgid "http://100n.org"
+msgstr "http://100n.org"
+
+#. Description of an extension
+msgid "A Chinese Payment Gateway for WPMU."
+msgstr "基于wordpress MU,支持中文和人民币交易的网关"
+
+#. Author of an extension
+msgid "Forrest Ling"
+msgstr "Ling Wei Cai"
+
+#. Author URI of an extension
+msgid "http://ling.100n.org/"
+msgstr "http://ling.100n.org/"
+
+#~ msgid "Place Order"
+#~ msgstr "订货"
+#~ msgid "Payease Configuration"
+#~ msgstr "首信易支付配置"
+#~ msgid "bwx_paymet page : should get request from payease post"
+#~ msgstr "百网信支付页面：应从首信易支付返回。"
+#~ msgid "Quantity"
+#~ msgstr "数量"
+#~ msgid "Show all products"
+#~ msgstr "显示所有产品"
+#~ msgid "Show all dates"
+#~ msgstr "显示所有日期"
+#~ msgid "Show all status"
+#~ msgstr "显示所有状态"
+#~ msgid "Ordered"
+#~ msgstr "订货"
+
